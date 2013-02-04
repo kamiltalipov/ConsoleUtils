@@ -4,6 +4,7 @@ class CharGrid:
     """CharGrid provides functionality for writing characters on a grid.
 
     This class provides functions for adding lines, rectangles, circles, text.
+    
 	The result may look like:
 	************************************
 	*                T                 *
